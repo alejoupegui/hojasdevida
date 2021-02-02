@@ -1,4 +1,3 @@
-
 function testGS(){
 
 	const url = "https://script.google.com/macros/s/AKfycbzks0DnacpVPOKu28vOu0nUyTJWKvkThsCQ9yeODBtOMvxtGLI/exec";
