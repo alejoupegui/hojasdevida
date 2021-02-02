@@ -10,5 +10,5 @@ function testGS(){
 	});
 }
 
-document.getElementById("btn").addEventListener("click",testGS);
+document.getElementById("btn").addEventListener("click",testGS());
 
